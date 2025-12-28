@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @lanius2006
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing(?)
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you can't
+hewwo, i'm selinoccino, a random gamedev
+
+i can code pretty much anything if i'm interested enough in it
+
+not really much else to say
+
+uhh feel free to look around my repos :3
+
 
 <!---
 lanius2006/lanius2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
